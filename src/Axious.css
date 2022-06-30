@@ -1,0 +1,12 @@
+body {
+    background-color: rgb(194, 246, 246);
+    
+}
+
+.cards {
+    width: 1920px;
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-around;
+    flex-direction: row;
+}   
